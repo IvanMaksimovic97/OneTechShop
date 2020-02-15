@@ -1,0 +1,2 @@
+mala: 115x115 px
+velika: 410x460 px
